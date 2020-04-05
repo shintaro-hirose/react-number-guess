@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-number-guess/static/css/main.9b3a030e.chunk.css",
+    "main.js": "/react-number-guess/static/js/main.1e8ca050.chunk.js",
+    "main.js.map": "/react-number-guess/static/js/main.1e8ca050.chunk.js.map",
+    "runtime-main.js": "/react-number-guess/static/js/runtime-main.32e6c1ca.js",
+    "runtime-main.js.map": "/react-number-guess/static/js/runtime-main.32e6c1ca.js.map",
+    "static/js/2.416b8442.chunk.js": "/react-number-guess/static/js/2.416b8442.chunk.js",
+    "static/js/2.416b8442.chunk.js.map": "/react-number-guess/static/js/2.416b8442.chunk.js.map",
+    "index.html": "/react-number-guess/index.html",
+    "precache-manifest.d78720cb1c634b469a17d0cdcd952cd1.js": "/react-number-guess/precache-manifest.d78720cb1c634b469a17d0cdcd952cd1.js",
+    "service-worker.js": "/react-number-guess/service-worker.js",
+    "static/css/main.9b3a030e.chunk.css.map": "/react-number-guess/static/css/main.9b3a030e.chunk.css.map",
+    "static/js/2.416b8442.chunk.js.LICENSE.txt": "/react-number-guess/static/js/2.416b8442.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32e6c1ca.js",
+    "static/js/2.416b8442.chunk.js",
+    "static/css/main.9b3a030e.chunk.css",
+    "static/js/main.1e8ca050.chunk.js"
+  ]
+}
